@@ -1,4 +1,4 @@
-#ATM Interface – Console-Based Java Application
+# ATM Interface – Console-Based Java Application
 
 # Introduction
 This project is a console-based ATM interface designed to provide users with essential banking functionalities such as authentication, transactions, withdrawals, deposits, and fund transfers. Built using Java and Object-Oriented Programming (OOP) principles, this project helped enhance my understanding of OOP concepts such as encapsulation, inheritance, and polymorphism while working with multiple classes.
