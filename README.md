@@ -30,7 +30,7 @@ Main Class – Controls user interaction and program execution.
 
 # How to Run the Project
 Clone the repository
-git clone https://github.com/your-repo/ATM-Interface.git
+git clone https://github.com/sanskriti-jaiswal/ATM-Interface.git
 
 Navigate to the project folder
 cd ATM-Interface
